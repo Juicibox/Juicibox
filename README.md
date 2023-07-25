@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="200"/>
+   <img src="https://komarev.com/ghpvc/?username=Juicibox&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## About Me:
@@ -17,9 +18,7 @@
   </a>  
   <a href="https://www.kaggle.com/juicibox7">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-  <img src="https://komarev.com/ghpvc/?username=Juicibox&style=flat-square&color=blue" alt=""/>
-
+  </a> 
 </div>
 
 
