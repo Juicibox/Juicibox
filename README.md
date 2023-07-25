@@ -4,7 +4,7 @@
 - I love applying my analytical skills and scientific knowledge to solve complex problems and discover hidden patterns in data.
 
 ## Socials:
-[LinkedIn](https://www.linkedin.com/in/juan-roncancio01)
+[![LinkedIn](https://i.imgur.com/Rn1cGR6.png)](https://www.linkedin.com/in/juan-roncancio01)
 
 
 
