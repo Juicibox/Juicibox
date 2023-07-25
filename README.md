@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="100"/>
+</div>
+
 ## About Me:
 - 👋 Hi, I’m @Juicibox Juan Roncancio.
 - 👀 I’m a chemist and data scientist, I’m interested in research.
