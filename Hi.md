@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Juan Roncancio
-- 👀 I’m interested in research 
-- 🌱 I’m currently learning IA, XGBoost
+- 👋 Hi, I’m @Juicibox Juan Roncancio.
+- 👀 I’m a chemist and data scientist, I’m interested in research.
+- 
 
 
 <!---
