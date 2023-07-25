@@ -1,6 +1,11 @@
+## About Me:
 - 👋 Hi, I’m @Juicibox Juan Roncancio.
 - 👀 I’m a chemist and data scientist, I’m interested in research.
 - I love applying my analytical skills and scientific knowledge to solve complex problems and discover hidden patterns in data.
+
+## Socials:
+[LinkedIn](https://www.linkedin.com/in/juan-roncancio01)
+
 
 
 <!---
