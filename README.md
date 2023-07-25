@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="200"/>
 </div>
 
 ## About Me:
@@ -8,7 +8,18 @@
 - I love applying my analytical skills and scientific knowledge to solve complex problems and discover hidden patterns in data.
 
 ## Socials:
-[![LinkedIn](https://i.imgur.com/Rn1cGR6.png)](https://www.linkedin.com/in/juan-roncancio01)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/juan-roncancio01">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+  <a href="https://juicibox.github.io/">
+    <img src="https://img.shields.io/badge/Portafolio-black?style=for-the-badge&logo=dependabot&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+  <a href="https://www.kaggle.com/juicibox7">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+
+</div>
 
 
 
